@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".main.widget.MainActivity">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:checked="true"
+            android:id="@+id/action_hotgit"
+            android:icon="@drawable/ic_hotgithub"
+            android:title="@string/hotgithub" />
+        <item
+            android:id="@+id/action_favos"
+            android:icon="@drawable/ic_action_favo"
+            android:title="@string/favorites" />
+
+        <item
+            android:id="@+id/action_custom"
+            android:icon="@drawable/ic_action_custom"
+            android:title="@string/custom_language"/>
+
+
+        <item
+            android:id="@+id/action_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/settings" />
+
+        <item
+            android:id="@+id/action_about"
+            android:icon="@drawable/ic_about"
+            android:title="@string/about" />
+    </group>
+</menu>

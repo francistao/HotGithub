@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Github热门</string>
+    <string name="name">Github热门</string>
+
+    <string name="custom_language">管理语言</string>
+    <string name="about">关于</string>
+    <string name="settings">设置</string>
+    <string name="hotgithub">热门应用</string>
+    <string name="favorites">关注项目</string>
+
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+
+</resources>
